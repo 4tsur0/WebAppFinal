@@ -3,8 +3,8 @@
 
 # Link
 - [デモ(Replit)](https://webappfinal.cgjf0086.repl.co/)
+- [ソースコード(Github)](https://github.com/cgjf0086/WebAppFinal) <- Main
 - [ソースコード(Replit)](https://replit.com/@cgjf0086/WebAppFinal)
-- [ソースコード(Github)](https://github.com/cgjf0086/WebAppFinal)
 
 # 使用方法
 APIキーを設定してください  
