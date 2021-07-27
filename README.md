@@ -85,11 +85,11 @@ const weather_APIKey = process.env.VUE_APP_OPENWEATHER_KEY
 - Vue3対応の[Vue-Multiselect@3.0.0alpha](https://github.com/shentao/vue-multiselect/tree/next)での実装(Alpha版のため見送り)
 
 # 問題点
-- TheSportsDBが無料プランであるので`nextevent`を取得できない  
+- *TheSportsDB*が無料プランであるので`nextevent`を取得できない  
   -> 代わりに`lastevent`を取得  
-  -> APIKEYによってAPIパラメータの変更  
+  -> APIキーによってAPIパラメータの変更  
   -> 現在の天気(Daily)を表示
 - 有料プランであれば､ライブスコアも表示可能
-- Mapbox Geocoderが正しいpoi型データを返さない
-  - Real Madrid  
+- *Mapbox Geocoding API*が正しいpoi型データを返さない
+  - *Real Madrid*
   - etc
