@@ -60,6 +60,7 @@ const weather_APIKey = process.env.VUE_APP_OPENWEATHER_KEY
 - 使用したAPI
   - [TheSportsDB](https://www.thesportsdb.com/api.php)
   - [Mapbox](https://docs.mapbox.com/)
+  - [Mapbox Geocoding API](https://docs.mapbox.com/api/search/geocoding/)
   - [OpenWeather](https://openweathermap.org/api)
 
 - 使用したPackages
